@@ -1,0 +1,4 @@
+"AadClientId": "47bdfc6e-28b4-4313-befa-d34acc76752d",
+"AadSecret": "Vnb8Q~kIpC9Pzh.wJRXrZh2ZdXX9t04tlkX1Qarb",
+"AadTenantDomain": "dtccqa.onmicrosoft.com",
+"AadTenantId": "7185734c-4578-4fe8-9d82-f92fc37bf7ec",
